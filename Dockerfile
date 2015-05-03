@@ -1,4 +1,4 @@
-FROM sequenceiq/hadoop-docker
+FROM mackertd/hadoop-docker
 
 MAINTAINER @mraad <mraad@esri.com>
 
